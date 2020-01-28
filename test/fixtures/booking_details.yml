@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  payment: MyString
+  space: MyString
+  status: false
+  time_use_space: 2020-01-28 16:09:17
+
+two:
+  payment: MyString
+  space: MyString
+  status: false
+  time_use_space: 2020-01-28 16:09:17
